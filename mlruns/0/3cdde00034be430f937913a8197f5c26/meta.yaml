@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/3cdde00034be430f937913a8197f5c26/artifacts
+end_time: 1689597828834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cdde00034be430f937913a8197f5c26
+run_name: gentle-roo-599
+run_uuid: 3cdde00034be430f937913a8197f5c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597822063
+status: 3
+tags: []
+user_id: nilay

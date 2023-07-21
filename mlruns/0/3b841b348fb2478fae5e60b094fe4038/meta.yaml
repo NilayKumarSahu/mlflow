@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/3b841b348fb2478fae5e60b094fe4038/artifacts
+end_time: 1689596138961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b841b348fb2478fae5e60b094fe4038
+run_name: calm-ant-608
+run_uuid: 3b841b348fb2478fae5e60b094fe4038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689596130150
+status: 3
+tags: []
+user_id: nilay

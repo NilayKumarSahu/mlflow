@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/9f6422584b98466099fc9c5f539347de/artifacts
+end_time: 1689597815106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f6422584b98466099fc9c5f539347de
+run_name: upbeat-gnu-885
+run_uuid: 9f6422584b98466099fc9c5f539347de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597808650
+status: 3
+tags: []
+user_id: nilay

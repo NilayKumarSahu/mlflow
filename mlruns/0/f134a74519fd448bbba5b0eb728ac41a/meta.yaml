@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/f134a74519fd448bbba5b0eb728ac41a/artifacts
+end_time: 1689595727505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f134a74519fd448bbba5b0eb728ac41a
+run_name: skillful-shrimp-525
+run_uuid: f134a74519fd448bbba5b0eb728ac41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689595726652
+status: 3
+tags: []
+user_id: nilay

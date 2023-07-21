@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/4510601908c4477b8c6b5385562d9231/artifacts
+end_time: 1689598011761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4510601908c4477b8c6b5385562d9231
+run_name: gentle-croc-8
+run_uuid: 4510601908c4477b8c6b5385562d9231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689598003642
+status: 3
+tags: []
+user_id: nilay

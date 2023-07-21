@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/cc9a9ec35a684df7b9eeef6ade346acf/artifacts
+end_time: 1689597866626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc9a9ec35a684df7b9eeef6ade346acf
+run_name: sneaky-dolphin-184
+run_uuid: cc9a9ec35a684df7b9eeef6ade346acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597859875
+status: 3
+tags: []
+user_id: nilay

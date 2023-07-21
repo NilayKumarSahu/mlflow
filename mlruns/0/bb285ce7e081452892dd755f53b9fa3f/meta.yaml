@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/bb285ce7e081452892dd755f53b9fa3f/artifacts
+end_time: 1689597969124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb285ce7e081452892dd755f53b9fa3f
+run_name: loud-stag-96
+run_uuid: bb285ce7e081452892dd755f53b9fa3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597967504
+status: 4
+tags: []
+user_id: nilay

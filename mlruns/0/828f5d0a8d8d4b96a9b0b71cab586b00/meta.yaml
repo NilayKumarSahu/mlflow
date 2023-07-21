@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/828f5d0a8d8d4b96a9b0b71cab586b00/artifacts
+end_time: 1689597761757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 828f5d0a8d8d4b96a9b0b71cab586b00
+run_name: calm-midge-257
+run_uuid: 828f5d0a8d8d4b96a9b0b71cab586b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597755308
+status: 3
+tags: []
+user_id: nilay

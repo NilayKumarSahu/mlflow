@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/094be6164eae4afeb09c0cd0f1553c6b/artifacts
+end_time: 1689595890570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094be6164eae4afeb09c0cd0f1553c6b
+run_name: rare-vole-214
+run_uuid: 094be6164eae4afeb09c0cd0f1553c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689595888515
+status: 3
+tags: []
+user_id: nilay

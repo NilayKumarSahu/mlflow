@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/4304f7d97acd40e6b16816bba53e98e0/artifacts
+end_time: 1689597853557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4304f7d97acd40e6b16816bba53e98e0
+run_name: beautiful-snipe-621
+run_uuid: 4304f7d97acd40e6b16816bba53e98e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597847903
+status: 3
+tags: []
+user_id: nilay

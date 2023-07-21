@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/332405e52839466aafc145d165f5ffc5/artifacts
+end_time: 1689597841364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 332405e52839466aafc145d165f5ffc5
+run_name: grandiose-ram-500
+run_uuid: 332405e52839466aafc145d165f5ffc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597835669
+status: 3
+tags: []
+user_id: nilay

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nilay/mlflow/mlruns/0/8a933ee3674943609e27bfc3f6244a8f/artifacts
+end_time: 1689598039169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a933ee3674943609e27bfc3f6244a8f
+run_name: honorable-deer-93
+run_uuid: 8a933ee3674943609e27bfc3f6244a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689598032510
+status: 3
+tags: []
+user_id: nilay
